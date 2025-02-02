@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your Quiz App using Firebase and Flutter, including placeholders for images. The images will be displayed under their respective screens, and you can replace the image file names with your actual image paths.
 
-```markdown
 # Quiz App with Firebase and Flutter
 
 This is a Flutter-based Quiz App that uses Firebase for authentication and database management. The app allows users to sign in, view categories, and take quizzes based on selected categories.
@@ -135,13 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or support, feel free to reach out via email or create an issue in the repository.
 
-```
-
-### How to Add Images:
-1. **Image Storage**: Store the images inside the `assets/images/` directory in your project.
-2. **Update Image Paths**: Replace the `assets/images/splash_screen.png` with the correct path to your images.
-3. **Ensure Correct Image Formats**: Ensure the images are in a supported format such as `.png`, `.jpg`, or `.jpeg`.
-
-Once the images are added and paths updated, this README will render properly on GitHub or any markdown viewer.
-
-Let me know if you'd like any further adjustments!
