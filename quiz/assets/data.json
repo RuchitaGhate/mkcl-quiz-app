@@ -1,0 +1,1477 @@
+ [
+    {
+      "name": "Computer Fundamentals",
+      "description": "Basic understanding of computers, hardware, software, and operating systems.",
+      "icon": "exit",
+      "questions": [
+        {
+          "questionText": "What is the main function of the CPU?",
+          "answers": [
+            "Perform calculations",
+            "Store data",
+            "Display output",
+            "Manage memory"
+          ],
+          "correctAnswer": "Perform calculations"
+        },
+        {
+          "questionText": "Which device is used to input data into a computer?",
+          "answers": ["Monitor", "Keyboard", "Speaker", "Printer"],
+          "correctAnswer": "Keyboard"
+        },
+        {
+          "questionText": "Which of the following is considered system software?",
+          "answers": [
+            "Microsoft Word",
+            "Google Chrome",
+            "Windows",
+            "Adobe Photoshop"
+          ],
+          "correctAnswer": "Windows"
+        },
+        {
+          "questionText": "What is the purpose of an operating system?",
+          "answers": [
+            "Manage hardware and software resources",
+            "Provide internet connectivity",
+            "Play video games",
+            "Store files"
+          ],
+          "correctAnswer": "Manage hardware and software resources"
+        },
+        {
+          "questionText": "Which of the following is an input device?",
+          "answers": ["Printer", "Monitor", "Scanner", "Speakers"],
+          "correctAnswer": "Scanner"
+        },
+        {
+          "questionText": "What does RAM stand for?",
+          "answers": [
+            "Read Access Memory",
+            "Random Access Memory",
+            "Rapid Access Memory",
+            "Read After Memory"
+          ],
+          "correctAnswer": "Random Access Memory"
+        },
+        {
+          "questionText": "Which device is used to display output from a computer?",
+          "answers": ["Monitor", "Keyboard", "Printer", "Mouse"],
+          "correctAnswer": "Monitor"
+        },
+        {
+          "questionText": "What does the BIOS do?",
+          "answers": [
+            "Boots the computer",
+            "Runs applications",
+            "Stores data",
+            "Provides internet connection"
+          ],
+          "correctAnswer": "Boots the computer"
+        },
+        {
+          "questionText": "Which of the following is an example of application software?",
+          "answers": ["Microsoft Word", "Windows", "BIOS", "MacOS"],
+          "correctAnswer": "Microsoft Word"
+        },
+        {
+          "questionText": "What is the main purpose of the motherboard?",
+          "answers": [
+            "To power the computer",
+            "To connect components",
+            "To store data",
+            "To display output"
+          ],
+          "correctAnswer": "To connect components"
+        },
+        {
+          "questionText": "What does CPU stand for?",
+          "answers": [
+            "Central Processing Unit",
+            "Central Program Unit",
+            "Computer Processing Unit",
+            "Central Performance Unit"
+          ],
+          "correctAnswer": "Central Processing Unit"
+        },
+        {
+          "questionText": "Which of the following is a type of storage device?",
+          "answers": ["CPU", "RAM", "Hard Drive", "Monitor"],
+          "correctAnswer": "Hard Drive"
+        },
+        {
+          "questionText": "Which of the following is an example of non-volatile memory?",
+          "answers": ["RAM", "Hard Drive", "Cache Memory", "CPU"],
+          "correctAnswer": "Hard Drive"
+        },
+        {
+          "questionText": "Which of the following is an example of an operating system?",
+          "answers": ["Microsoft Excel", "MacOS", "Google Chrome", "Notepad"],
+          "correctAnswer": "MacOS"
+        },
+        {
+          "questionText": "Which of the following is used to store data permanently?",
+          "answers": ["RAM", "Cache", "Hard Drive", "CPU"],
+          "correctAnswer": "Hard Drive"
+        },
+        {
+          "questionText": "What is the full form of USB?",
+          "answers": [
+            "Universal Serial Bus",
+            "Uniform Serial Bus",
+            "Universal Storage Bus",
+            "Uniform Storage Bus"
+          ],
+          "correctAnswer": "Universal Serial Bus"
+        },
+        {
+          "questionText": "Which component is considered the 'brain' of the computer?",
+          "answers": ["RAM", "Hard Drive", "CPU", "Motherboard"],
+          "correctAnswer": "CPU"
+        },
+        {
+          "questionText": "What does the 'RAM' store while the computer is running?",
+          "answers": [
+            "Permanent data",
+            "Temporary data",
+            "System software",
+            "Backup data"
+          ],
+          "correctAnswer": "Temporary data"
+        },
+        {
+          "questionText": "Which of the following is not an operating system?",
+          "answers": ["Linux", "Windows", "Android", "Microsoft Office"],
+          "correctAnswer": "Microsoft Office"
+        },
+        {
+          "questionText": "Which of these is a type of printer?",
+          "answers": ["Laser printer", "Scanner", "Monitor", "Keyboard"],
+          "correctAnswer": "Laser printer"
+        },
+        {
+          "questionText": "What is the function of an ALU in a computer?",
+          "answers": [
+            "Control operations",
+            "Perform calculations and logical operations",
+            "Manage data storage",
+            "Display output"
+          ],
+          "correctAnswer": "Perform calculations and logical operations"
+        },
+        {
+          "questionText": "What is the function of a graphics card?",
+          "answers": [
+            "Store data",
+            "Display graphics",
+            "Provide power to the CPU",
+            "Control keyboard input"
+          ],
+          "correctAnswer": "Display graphics"
+        },
+        {
+          "questionText": "Which of these is used to send data to a computer?",
+          "answers": ["Printer", "Keyboard", "Monitor", "Speaker"],
+          "correctAnswer": "Keyboard"
+        },
+        {
+          "questionText": "Which of these is an example of an external storage device?",
+          "answers": ["Hard Drive", "RAM", "CPU", "Motherboard"],
+          "correctAnswer": "Hard Drive"
+        },
+        {
+          "questionText": "Which part of the computer stores data for the long term?",
+          "answers": ["RAM", "Cache", "Hard Drive", "CPU"],
+          "correctAnswer": "Hard Drive"
+        },
+        {
+          "questionText": "Which of these is a type of network?",
+          "answers": ["LAN", "RAM", "CPU", "ROM"],
+          "correctAnswer": "LAN"
+        },
+        {
+          "questionText": "What is the function of the operating system in a computer?",
+          "answers": [
+            "Controls hardware",
+            "Performs calculations",
+            "Displays output",
+            "Manages files"
+          ],
+          "correctAnswer": "Controls hardware"
+        },
+        {
+          "questionText": "What type of device is a computer mouse?",
+          "answers": [
+            "Input device",
+            "Output device",
+            "Storage device",
+            "Peripheral device"
+          ],
+          "correctAnswer": "Input device"
+        },
+        {
+          "questionText": "What is an example of primary storage?",
+          "answers": ["Hard Drive", "Cache", "Floppy Disk", "DVD"],
+          "correctAnswer": "Cache"
+        }
+      ]
+    },
+    {
+      "name": "Programming Basics",
+      "description": "Introduction to basic programming concepts and languages.",
+      "icon": "code",
+      "questions": [
+        {
+          "questionText": "Which of these is a data type in Python?",
+          "answers": ["Integer", "Float", "String", "All of the above"],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "questionText": "What is the keyword used to define a function in Python?",
+          "answers": ["function", "def", "define", "fun"],
+          "correctAnswer": "def"
+        },
+        {
+          "questionText": "Which of these symbols is used for comments in Python?",
+          "answers": ["#", "//", "/*", "--"],
+          "correctAnswer": "#"
+        },
+        {
+          "questionText": "Which of these is used to create a loop in Python?",
+          "answers": ["for", "loop", "repeat", "each"],
+          "correctAnswer": "for"
+        },
+        {
+          "questionText": "What does the 'if' statement do in Python?",
+          "answers": [
+            "Checks a condition",
+            "Loops over a sequence",
+            "Defines a function",
+            "None of the above"
+          ],
+          "correctAnswer": "Checks a condition"
+        },
+        {
+          "questionText": "Which of the following is used to store multiple items in a single variable in Python?",
+          "answers": ["List", "Set", "Tuple", "All of the above"],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "questionText": "What will be the result of the expression '2 + 3 * 5' in Python?",
+          "answers": ["25", "17", "15", "None of the above"],
+          "correctAnswer": "17"
+        },
+        {
+          "questionText": "What is the function to get the length of a list in Python?",
+          "answers": ["len()", "length()", "size()", "get_length()"],
+          "correctAnswer": "len()"
+        },
+        {
+          "questionText": "Which of the following is used to handle exceptions in Python?",
+          "answers": ["try-except", "if-else", "for-in", "while-else"],
+          "correctAnswer": "try-except"
+        },
+        {
+          "questionText": "How do you define a class in Python?",
+          "answers": [
+            "class ClassName:",
+            "class ClassName()",
+            "def ClassName:",
+            "def ClassName()"
+          ],
+          "correctAnswer": "class ClassName:"
+        },
+        {
+          "questionText": "Which of the following is not a valid Python data type?",
+          "answers": ["Integer", "Boolean", "Real", "String"],
+          "correctAnswer": "Real"
+        },
+        {
+          "questionText": "Which function is used to get the input from the user in Python?",
+          "answers": ["input()", "get()", "read()", "scan()"],
+          "correctAnswer": "input()"
+        },
+        {
+          "questionText": "What is the keyword used to handle errors in Python?",
+          "answers": ["try", "catch", "except", "throw"],
+          "correctAnswer": "except"
+        },
+        {
+          "questionText": "What will be the output of the following code: 'print(3 * 2 ** 2)'?",
+          "answers": ["6", "12", "9", "24"],
+          "correctAnswer": "12"
+        },
+        {
+          "questionText": "What is the purpose of the 'break' statement in Python?",
+          "answers": [
+            "Exits a loop",
+            "Pauses a loop",
+            "Continues the loop",
+            "None of the above"
+          ],
+          "correctAnswer": "Exits a loop"
+        },
+        {
+          "questionText": "Which of the following is a mutable data type in Python?",
+          "answers": ["Tuple", "String", "List", "None of the above"],
+          "correctAnswer": "List"
+        },
+        {
+          "questionText": "How do you create a dictionary in Python?",
+          "answers": ["{key: value}", "[]", "()", "{}"],
+          "correctAnswer": "{key: value}"
+        },
+        {
+          "questionText": "What is the output of 'print('Hello' + ' World')' in Python?",
+          "answers": ["Hello World", "HelloWorld", "Hello World", "Error"],
+          "correctAnswer": "Hello World"
+        },
+        {
+          "questionText": "What is the result of '5 // 2' in Python?",
+          "answers": ["2.5", "2", "3", "5"],
+          "correctAnswer": "2"
+        },
+        {
+          "questionText": "Which of these is used to return a value from a function in Python?",
+          "answers": ["return", "yield", "break", "exit"],
+          "correctAnswer": "return"
+        },
+        {
+          "questionText": "What is the correct way to import a module in Python?",
+          "answers": [
+            "import module_name",
+            "include module_name",
+            "load module_name",
+            "import('module_name')"
+          ],
+          "correctAnswer": "import module_name"
+        },
+        {
+          "questionText": "What does the 'continue' statement do in Python?",
+          "answers": [
+            "Exits the loop",
+            "Resumes the next iteration of the loop",
+            "Stops the program",
+            "None of the above"
+          ],
+          "correctAnswer": "Resumes the next iteration of the loop"
+        },
+        {
+          "questionText": "What does the 'pass' statement do in Python?",
+          "answers": [
+            "Halts the program",
+            "Does nothing",
+            "Throws an error",
+            "Exits a loop"
+          ],
+          "correctAnswer": "Does nothing"
+        },
+        {
+          "questionText": "What will 'list(range(3))' output in Python?",
+          "answers": ["[0, 1, 2]", "[1, 2, 3]", "3", "[0, 1, 2, 3]"],
+          "correctAnswer": "[0, 1, 2]"
+        },
+        {
+          "questionText": "Which of these is a valid Python identifier?",
+          "answers": ["123abc", "_abc123", "abc-123", "123_abc"],
+          "correctAnswer": "_abc123"
+        },
+        {
+          "questionText": "How do you concatenate two strings in Python?",
+          "answers": [
+            "str1 + str2",
+            "str1.add(str2)",
+            "str1.concat(str2)",
+            "None of the above"
+          ],
+          "correctAnswer": "str1 + str2"
+        },
+        {
+          "questionText": "What is the output of 'print('Hello' * 3)' in Python?",
+          "answers": [
+            "HelloHelloHello",
+            "Hello 3",
+            "Hello",
+            "None of the above"
+          ],
+          "correctAnswer": "HelloHelloHello"
+        }
+      ]
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "description": "Key concepts in organizing and processing data.",
+      "icon": "storage",
+      "questions": [
+        {
+          "questionText": "Which of the following is a linear data structure?",
+          "answers": ["Array", "Stack", "Queue", "All of the above"],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "questionText": "Which algorithm is used for searching a sorted array?",
+          "answers": [
+            "Linear Search",
+            "Binary Search",
+            "Bubble Sort",
+            "Insertion Sort"
+          ],
+          "correctAnswer": "Binary Search"
+        },
+        {
+          "questionText": "What is the time complexity of QuickSort in the worst case?",
+          "answers": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+          "correctAnswer": "O(n^2)"
+        },
+        {
+          "questionText": "What type of data structure is a hash table?",
+          "answers": ["Linear", "Non-linear", "Array", "Graph"],
+          "correctAnswer": "Non-linear"
+        },
+        {
+          "questionText": "Which of the following algorithms is the most efficient for sorting?",
+          "answers": [
+            "Bubble Sort",
+            "Merge Sort",
+            "Selection Sort",
+            "QuickSort"
+          ],
+          "correctAnswer": "Merge Sort"
+        },
+        {
+          "questionText": "Which operation is used to access an element in an array?",
+          "answers": ["Insertion", "Deletion", "Traversal", "Access"],
+          "correctAnswer": "Access"
+        },
+        {
+          "questionText": "What is the space complexity of QuickSort in the average case?",
+          "answers": ["O(1)", "O(n)", "O(n log n)", "O(n^2)"],
+          "correctAnswer": "O(n log n)"
+        },
+        {
+          "questionText": "In which data structure is data inserted and removed from the same end?",
+          "answers": ["Queue", "Stack", "Array", "Linked List"],
+          "correctAnswer": "Stack"
+        },
+        {
+          "questionText": "What is the time complexity of the Merge Sort algorithm in the worst case?",
+          "answers": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+          "correctAnswer": "O(n log n)"
+        },
+        {
+          "questionText": "Which of the following is a graph traversal technique?",
+          "answers": ["BFS", "DFS", "Dijkstra", "All of the above"],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "questionText": "Which of the following is not a property of a binary search tree?",
+          "answers": [
+            "Left child is less than parent",
+            "Right child is greater than parent",
+            "All children are balanced",
+            "No duplicate values allowed"
+          ],
+          "correctAnswer": "All children are balanced"
+        },
+        {
+          "questionText": "Which of these is an example of a divide-and-conquer algorithm?",
+          "answers": [
+            "Insertion Sort",
+            "Merge Sort",
+            "Bubble Sort",
+            "Linear Search"
+          ],
+          "correctAnswer": "Merge Sort"
+        },
+        {
+          "questionText": "Which of the following data structures is used in implementing recursion?",
+          "answers": ["Queue", "Array", "Stack", "Linked List"],
+          "correctAnswer": "Stack"
+        },
+        {
+          "questionText": "What is the time complexity of accessing an element in a linked list?",
+          "answers": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+          "correctAnswer": "O(n)"
+        },
+        {
+          "questionText": "What is the worst-case time complexity of the Bubble Sort algorithm?",
+          "answers": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+          "correctAnswer": "O(n^2)"
+        },
+        {
+          "questionText": "In which data structure can elements be inserted and deleted from both ends?",
+          "answers": ["Queue", "Deque", "Stack", "Array"],
+          "correctAnswer": "Deque"
+        },
+        {
+          "questionText": "Which algorithm is used for finding the shortest path in a graph?",
+          "answers": ["DFS", "BFS", "Dijkstra", "Kruskal's Algorithm"],
+          "correctAnswer": "Dijkstra"
+        },
+        {
+          "questionText": "What is the primary difference between a stack and a queue?",
+          "answers": [
+            "A stack is LIFO, and a queue is FIFO",
+            "A stack is FIFO, and a queue is LIFO",
+            "A stack is ordered, and a queue is unordered",
+            "There is no difference"
+          ],
+          "correctAnswer": "A stack is LIFO, and a queue is FIFO"
+        },
+        {
+          "questionText": "Which of the following is an example of a greedy algorithm?",
+          "answers": [
+            "Dijkstra's Algorithm",
+            "QuickSort",
+            "Merge Sort",
+            "Breadth-First Search"
+          ],
+          "correctAnswer": "Dijkstra's Algorithm"
+        },
+        {
+          "questionText": "What is the time complexity of the BFS algorithm?",
+          "answers": ["O(n)", "O(n log n)", "O(n^2)", "O(m + n)"],
+          "correctAnswer": "O(m + n)"
+        },
+        {
+          "questionText": "Which of the following is not a type of tree data structure?",
+          "answers": [
+            "Binary Search Tree",
+            "AVL Tree",
+            "Graph",
+            "Red-Black Tree"
+          ],
+          "correctAnswer": "Graph"
+        },
+        {
+          "questionText": "In a doubly linked list, each node contains references to which of the following?",
+          "answers": [
+            "Next node",
+            "Previous node",
+            "Both next and previous nodes",
+            "Only previous node"
+          ],
+          "correctAnswer": "Both next and previous nodes"
+        },
+        {
+          "questionText": "What is the time complexity of searching for an element in a hash table?",
+          "answers": ["O(1)", "O(n)", "O(log n)", "O(n log n)"],
+          "correctAnswer": "O(1)"
+        },
+        {
+          "questionText": "Which of the following algorithms is used for sorting a linked list?",
+          "answers": ["Selection Sort", "Merge Sort", "QuickSort", "Heap Sort"],
+          "correctAnswer": "Merge Sort"
+        }
+      ]
+    },
+    {
+        "name": "Computer Networks",
+        "description": "Understanding networking concepts and protocols.",
+        "icon": "network_wifi",
+        "questions": [
+          {
+            "questionText": "What does DNS stand for?",
+            "answers": [
+              "Domain Name System",
+              "Data Network Service",
+              "Dynamic Network Service",
+              "Direct Name Service"
+            ],
+            "correctAnswer": "Domain Name System"
+          },
+          {
+            "questionText": "What is the primary function of a router?",
+            "answers": [
+              "Transmit data packets",
+              "Store data",
+              "Connect different networks",
+              "Encrypt data"
+            ],
+            "correctAnswer": "Connect different networks"
+          },
+          {
+            "questionText": "Which protocol is used for secure communication over the internet?",
+            "answers": ["HTTP", "FTP", "HTTPS", "TCP"],
+            "correctAnswer": "HTTPS"
+          },
+          {
+            "questionText": "What does HTTP stand for?",
+            "answers": [
+              "HyperText Transfer Protocol",
+              "HyperTransfer Text Protocol",
+              "Home Text Transfer Protocol",
+              "HyperText Transport Protocol"
+            ],
+            "correctAnswer": "HyperText Transfer Protocol"
+          },
+          {
+            "questionText": "Which layer of the OSI model is responsible for data encryption?",
+            "answers": [
+              "Physical",
+              "Data Link",
+              "Network",
+              "Presentation"
+            ],
+            "correctAnswer": "Presentation"
+          },
+          {
+            "questionText": "Which device is used to connect multiple devices within a local area network (LAN)?",
+            "answers": ["Router", "Switch", "Hub", "Modem"],
+            "correctAnswer": "Switch"
+          },
+          {
+            "questionText": "What does the acronym VPN stand for?",
+            "answers": [
+              "Virtual Private Network",
+              "Very Private Network",
+              "Virtual Public Network",
+              "Voice Protocol Network"
+            ],
+            "correctAnswer": "Virtual Private Network"
+          },
+          {
+            "questionText": "What is the maximum length of an Ethernet cable segment in a local area network?",
+            "answers": ["100 meters", "50 meters", "200 meters", "500 meters"],
+            "correctAnswer": "100 meters"
+          },
+          {
+            "questionText": "Which protocol is used for sending email over the internet?",
+            "answers": [
+              "FTP",
+              "SMTP",
+              "HTTP",
+              "IMAP"
+            ],
+            "correctAnswer": "SMTP"
+          },
+          {
+            "questionText": "Which of the following is a characteristic of IPv6?",
+            "answers": [
+              "128-bit addressing",
+              "32-bit addressing",
+              "64-bit addressing",
+              "256-bit addressing"
+            ],
+            "correctAnswer": "128-bit addressing"
+          },
+          {
+            "questionText": "What is the function of a firewall in computer networks?",
+            "answers": [
+              "Connects devices",
+              "Monitors network traffic",
+              "Encrypts data",
+              "Boosts signal strength"
+            ],
+            "correctAnswer": "Monitors network traffic"
+          },
+          {
+            "questionText": "Which protocol is responsible for resolving domain names to IP addresses?",
+            "answers": [
+              "SMTP",
+              "FTP",
+              "DNS",
+              "TCP"
+            ],
+            "correctAnswer": "DNS"
+          },
+          {
+            "questionText": "What does NAT stand for in networking?",
+            "answers": [
+              "Network Address Translation",
+              "Network Allocation Table",
+              "National Access Terminal",
+              "Node Address Translation"
+            ],
+            "correctAnswer": "Network Address Translation"
+          },
+          {
+            "questionText": "Which of the following is a common use of a proxy server?",
+            "answers": [
+              "Routing packets",
+              "Blocking unwanted traffic",
+              "Storing data",
+              "Encrypting communication"
+            ],
+            "correctAnswer": "Blocking unwanted traffic"
+          },
+          {
+            "questionText": "What is the primary function of a DNS server?",
+            "answers": [
+              "Send email",
+              "Translate domain names to IP addresses",
+              "Store files",
+              "Monitor traffic"
+            ],
+            "correctAnswer": "Translate domain names to IP addresses"
+          },
+          {
+            "questionText": "What is the purpose of an IP address in a computer network?",
+            "answers": [
+              "To identify a device on the network",
+              "To encrypt data",
+              "To provide a physical connection",
+              "To control bandwidth usage"
+            ],
+            "correctAnswer": "To identify a device on the network"
+          },
+          {
+            "questionText": "Which type of network topology connects all devices to a central hub or switch?",
+            "answers": [
+              "Star topology",
+              "Ring topology",
+              "Bus topology",
+              "Mesh topology"
+            ],
+            "correctAnswer": "Star topology"
+          },
+          {
+            "questionText": "Which of the following is used to uniquely identify a device on a network?",
+            "answers": [
+              "IP address",
+              "MAC address",
+              "Port number",
+              "SSID"
+            ],
+            "correctAnswer": "MAC address"
+          },
+          {
+            "questionText": "Which type of communication method uses a single channel to send and receive signals?",
+            "answers": [
+              "Half-duplex",
+              "Full-duplex",
+              "Simplex",
+              "Multiplex"
+            ],
+            "correctAnswer": "Half-duplex"
+          },
+          {
+            "questionText": "What is the primary purpose of a load balancer in a network?",
+            "answers": [
+              "To monitor traffic",
+              "To manage network devices",
+              "To distribute traffic across multiple servers",
+              "To store user data"
+            ],
+            "correctAnswer": "To distribute traffic across multiple servers"
+          },
+          {
+            "questionText": "Which protocol is used for transferring files between computers on a network?",
+            "answers": [
+              "SMTP",
+              "FTP",
+              "HTTP",
+              "IP"
+            ],
+            "correctAnswer": "FTP"
+          }
+        ]
+      },      
+      {
+        "name": "Operating Systems",
+        "description": "Learn how operating systems function and manage hardware resources.",
+        "icon": "settings_system_daydream",
+        "questions": [
+          {
+            "questionText": "Which of these is a type of operating system?",
+            "answers": ["Linux", "Windows", "macOS", "All of the above"],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "Which component manages memory in an operating system?",
+            "answers": ["CPU", "RAM", "MMU", "Cache"],
+            "correctAnswer": "MMU"
+          },
+          {
+            "questionText": "Which OS uses the kernel for process management?",
+            "answers": ["Windows", "Linux", "macOS", "All of the above"],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "What is the main function of an operating system?",
+            "answers": [
+              "Managing hardware resources",
+              "Providing a user interface",
+              "Running applications",
+              "All of the above"
+            ],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "Which of the following is responsible for process scheduling in an OS?",
+            "answers": ["CPU", "Scheduler", "Memory Manager", "I/O Manager"],
+            "correctAnswer": "Scheduler"
+          },
+          {
+            "questionText": "Which part of the operating system is responsible for managing file systems?",
+            "answers": ["Kernel", "Shell", "File System Manager", "User Interface"],
+            "correctAnswer": "Kernel"
+          },
+          {
+            "questionText": "What is virtual memory used for?",
+            "answers": [
+              "Storing large files",
+              "Increasing the physical memory",
+              "Creating an illusion of a larger main memory",
+              "Enhancing disk speed"
+            ],
+            "correctAnswer": "Creating an illusion of a larger main memory"
+          },
+          {
+            "questionText": "Which of these is a type of system call?",
+            "answers": [
+              "Fork",
+              "Read",
+              "Write",
+              "All of the above"
+            ],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "What is a deadlock in an operating system?",
+            "answers": [
+              "A situation where two or more processes are waiting indefinitely for a resource",
+              "A process that is running indefinitely",
+              "An error in the kernel",
+              "None of the above"
+            ],
+            "correctAnswer": "A situation where two or more processes are waiting indefinitely for a resource"
+          },
+          {
+            "questionText": "What is the purpose of a file system?",
+            "answers": [
+              "Organize data into files and directories",
+              "Secure data against unauthorized access",
+              "Speed up the computer",
+              "Increase memory capacity"
+            ],
+            "correctAnswer": "Organize data into files and directories"
+          },
+          {
+            "questionText": "Which scheduling algorithm is most commonly used in operating systems?",
+            "answers": ["Round Robin", "First Come First Serve", "Shortest Job First", "Priority Scheduling"],
+            "correctAnswer": "Round Robin"
+          },
+          {
+            "questionText": "What is the function of the 'init' process in Linux?",
+            "answers": [
+              "Start the operating system",
+              "Manage system resources",
+              "Manage user processes",
+              "Initialize the kernel"
+            ],
+            "correctAnswer": "Start the operating system"
+          },
+          {
+            "questionText": "Which of these is an example of a process synchronization tool?",
+            "answers": [
+              "Mutex",
+              "Semaphore",
+              "Monitor",
+              "All of the above"
+            ],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "What is a kernel in an operating system?",
+            "answers": [
+              "A type of hardware",
+              "The core component of the OS",
+              "The user interface",
+              "A process management tool"
+            ],
+            "correctAnswer": "The core component of the OS"
+          },
+          {
+            "questionText": "Which of the following is used for inter-process communication?",
+            "answers": [
+              "Shared memory",
+              "Message passing",
+              "Semaphores",
+              "All of the above"
+            ],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "What is a process control block (PCB)?",
+            "answers": [
+              "A data structure storing process information",
+              "A part of the CPU",
+              "A method for memory allocation",
+              "None of the above"
+            ],
+            "correctAnswer": "A data structure storing process information"
+          },
+          {
+            "questionText": "What is multitasking in an operating system?",
+            "answers": [
+              "Executing multiple programs simultaneously",
+              "Running multiple instances of the same program",
+              "Executing a program in the background",
+              "None of the above"
+            ],
+            "correctAnswer": "Executing multiple programs simultaneously"
+          },
+          {
+            "questionText": "Which of the following is a memory management technique?",
+            "answers": [
+              "Paging",
+              "Segmentation",
+              "Virtual memory",
+              "All of the above"
+            ],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "Which of these is an example of a time-sharing operating system?",
+            "answers": [
+              "Unix",
+              "Windows 10",
+              "Android",
+              "All of the above"
+            ],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "What does the acronym 'OS' stand for?",
+            "answers": ["Operating System", "Optimal Software", "Open Source", "Other Services"],
+            "correctAnswer": "Operating System"
+          }
+        ]
+      },      
+    {
+        "name": "Operating Systems",
+        "description": "Learn how operating systems function and manage hardware resources.",
+        "icon": "settings_system_daydream",
+        "questions": [
+          {
+            "questionText": "Which of these is a type of operating system?",
+            "answers": ["Linux", "Windows", "macOS", "All of the above"],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "Which component manages memory in an operating system?",
+            "answers": ["CPU", "RAM", "MMU", "Cache"],
+            "correctAnswer": "MMU"
+          },
+          {
+            "questionText": "Which OS uses the kernel for process management?",
+            "answers": ["Windows", "Linux", "macOS", "All of the above"],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "Which of the following is a key function of an operating system?",
+            "answers": [
+              "Managing hardware resources",
+              "Providing a user interface",
+              "Controlling processes",
+              "All of the above"
+            ],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "What does the term 'multitasking' refer to in an operating system?",
+            "answers": [
+              "Running multiple programs simultaneously",
+              "Switching between tasks quickly",
+              "Managing multiple users",
+              "Managing multiple hard drives"
+            ],
+            "correctAnswer": "Running multiple programs simultaneously"
+          },
+          {
+            "questionText": "Which component of an operating system directly interacts with hardware?",
+            "answers": ["Kernel", "Shell", "User interface", "Daemon"],
+            "correctAnswer": "Kernel"
+          },
+          {
+            "questionText": "What is the primary purpose of a file system in an operating system?",
+            "answers": [
+              "To organize and store files on a storage device",
+              "To manage user accounts",
+              "To execute system processes",
+              "To manage network traffic"
+            ],
+            "correctAnswer": "To organize and store files on a storage device"
+          },
+          {
+            "questionText": "Which of the following is not a common operating system?",
+            "answers": ["Windows", "Linux", "macOS", "iOS", "Android", "JavaOS"],
+            "correctAnswer": "JavaOS"
+          },
+          {
+            "questionText": "Which of the following is a feature of a real-time operating system?",
+            "answers": [
+              "Preemption of tasks",
+              "Guaranteed response time",
+              "Multiple users",
+              "Graphical user interface"
+            ],
+            "correctAnswer": "Guaranteed response time"
+          },
+          {
+            "questionText": "What does the term 'virtual memory' refer to?",
+            "answers": [
+              "Memory management that allows programs to use more memory than physically available",
+              "Memory reserved for the operating system",
+              "A type of memory that stores virtual data",
+              "Memory used for virtual machine operations"
+            ],
+            "correctAnswer": "Memory management that allows programs to use more memory than physically available"
+          },
+          {
+            "questionText": "Which of the following is responsible for managing processes in an operating system?",
+            "answers": [
+              "Process scheduler",
+              "Memory manager",
+              "Device manager",
+              "File manager"
+            ],
+            "correctAnswer": "Process scheduler"
+          },
+          {
+            "questionText": "What is the role of an operating system kernel?",
+            "answers": [
+              "To provide a graphical user interface",
+              "To execute system commands",
+              "To manage hardware and software resources",
+              "To perform calculations"
+            ],
+            "correctAnswer": "To manage hardware and software resources"
+          },
+          {
+            "questionText": "Which operating system uses a graphical user interface (GUI) as its primary interface?",
+            "answers": ["Windows", "Linux", "macOS", "All of the above"],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "Which type of operating system is most commonly used in embedded systems?",
+            "answers": ["Real-time OS", "General-purpose OS", "Batch OS", "Multitasking OS"],
+            "correctAnswer": "Real-time OS"
+          },
+          {
+            "questionText": "Which of the following is true about open-source operating systems?",
+            "answers": [
+              "Their source code is freely available",
+              "They are more secure",
+              "They require special hardware",
+              "They are slower than proprietary operating systems"
+            ],
+            "correctAnswer": "Their source code is freely available"
+          },
+          {
+            "questionText": "What is the role of the shell in an operating system?",
+            "answers": [
+              "Interprets user commands",
+              "Manages system hardware",
+              "Controls processes",
+              "Stores files"
+            ],
+            "correctAnswer": "Interprets user commands"
+          }
+        ]
+      },      
+      {
+        "name": "Web Development",
+        "description": "Learn how to create websites and web applications.",
+        "icon": "web",
+        "questions": [
+          {
+            "questionText": "Which HTML tag is used to create a link?",
+            "answers": ["<link>", "<a>", "<button>", "<href>"],
+            "correctAnswer": "<a>"
+          },
+          {
+            "questionText": "Which of these is a frontend framework?",
+            "answers": ["Node.js", "React", "Java", "Django"],
+            "correctAnswer": "React"
+          },
+          {
+            "questionText": "Which CSS property is used to change text color?",
+            "answers": ["color", "text-color", "font-color", "background-color"],
+            "correctAnswer": "color"
+          },
+          {
+            "questionText": "Which HTML element is used to display a picture?",
+            "answers": ["<img>", "<picture>", "<src>", "<image>"],
+            "correctAnswer": "<img>"
+          },
+          {
+            "questionText": "Which of these is a backend language?",
+            "answers": ["JavaScript", "Python", "HTML", "CSS"],
+            "correctAnswer": "Python"
+          },
+          {
+            "questionText": "Which property is used in CSS to set the font size?",
+            "answers": ["font-size", "text-size", "size-font", "font-style"],
+            "correctAnswer": "font-size"
+          },
+          {
+            "questionText": "Which HTML tag is used to create a table?",
+            "answers": ["<table>", "<tr>", "<td>", "<th>"],
+            "correctAnswer": "<table>"
+          },
+          {
+            "questionText": "What is the purpose of JavaScript in web development?",
+            "answers": [
+              "To style the webpage",
+              "To structure the webpage",
+              "To add interactivity to the webpage",
+              "To store data"
+            ],
+            "correctAnswer": "To add interactivity to the webpage"
+          },
+          {
+            "questionText": "Which CSS property is used to control the layout of a webpage?",
+            "answers": ["position", "display", "float", "margin"],
+            "correctAnswer": "display"
+          },
+          {
+            "questionText": "What is the purpose of the <form> tag in HTML?",
+            "answers": [
+              "To create a table",
+              "To collect user input",
+              "To display images",
+              "To add buttons"
+            ],
+            "correctAnswer": "To collect user input"
+          },
+          {
+            "questionText": "Which of these is used to make a webpage mobile responsive?",
+            "answers": [
+              "Media Queries",
+              "CSS Grid",
+              "JavaScript",
+              "Both Media Queries and CSS Grid"
+            ],
+            "correctAnswer": "Both Media Queries and CSS Grid"
+          },
+          {
+            "questionText": "What does CSS stand for?",
+            "answers": [
+              "Computer Style Sheets",
+              "Cascading Style Sheets",
+              "Creative Style Sheets",
+              "Centralized Style Sheets"
+            ],
+            "correctAnswer": "Cascading Style Sheets"
+          },
+          {
+            "questionText": "Which tool is commonly used for version control in web development?",
+            "answers": ["Git", "Docker", "Figma", "MySQL"],
+            "correctAnswer": "Git"
+          },
+          {
+            "questionText": "What is the purpose of the <head> tag in HTML?",
+            "answers": [
+              "To contain content that is visible on the page",
+              "To include metadata and links to external resources",
+              "To display the main content of the page",
+              "To display the footer content"
+            ],
+            "correctAnswer": "To include metadata and links to external resources"
+          }
+        ]
+      },      
+      {
+        "name": "Software Engineering",
+        "description": "Learn principles and practices for building software systems.",
+        "icon": "engineering",
+        "questions": [
+          {
+            "questionText": "Which of the following is a software development methodology?",
+            "answers": ["Agile", "Waterfall", "Scrum", "All of the above"],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "Which tool is used for version control?",
+            "answers": ["Git", "Jenkins", "Docker", "Kubernetes"],
+            "correctAnswer": "Git"
+          },
+          {
+            "questionText": "What does SDLC stand for?",
+            "answers": [
+              "Software Design Life Cycle",
+              "System Development Life Cycle",
+              "Software Development Life Cycle",
+              "System Design Life Cycle"
+            ],
+            "correctAnswer": "Software Development Life Cycle"
+          },
+          {
+            "questionText": "Which of these is an example of an object-oriented programming language?",
+            "answers": ["Python", "C", "Fortran", "Assembly"],
+            "correctAnswer": "Python"
+          },
+          {
+            "questionText": "What is the primary purpose of unit testing?",
+            "answers": [
+              "To check the overall system performance",
+              "To test individual components or functions",
+              "To validate the user interface",
+              "To ensure system security"
+            ],
+            "correctAnswer": "To test individual components or functions"
+          },
+          {
+            "questionText": "What is an example of a continuous integration tool?",
+            "answers": ["GitHub", "Jenkins", "Docker", "Kubernetes"],
+            "correctAnswer": "Jenkins"
+          },
+          {
+            "questionText": "Which of these is an agile framework?",
+            "answers": ["Kanban", "Scrum", "Waterfall", "Both Kanban and Scrum"],
+            "correctAnswer": "Both Kanban and Scrum"
+          },
+          {
+            "questionText": "What is the purpose of the Design Pattern in software engineering?",
+            "answers": [
+              "To standardize the system design",
+              "To manage system configurations",
+              "To create reusable solutions to common problems",
+              "To improve testing"
+            ],
+            "correctAnswer": "To create reusable solutions to common problems"
+          },
+          {
+            "questionText": "What is the role of a software architect?",
+            "answers": [
+              "To write code",
+              "To define the software system's structure and design",
+              "To test the application",
+              "To manage the project timeline"
+            ],
+            "correctAnswer": "To define the software system's structure and design"
+          },
+          {
+            "questionText": "What is version control?",
+            "answers": [
+              "Tracking changes to source code over time",
+              "A process to deploy code into production",
+              "Monitoring system performance",
+              "Managing database backups"
+            ],
+            "correctAnswer": "Tracking changes to source code over time"
+          },
+          {
+            "questionText": "Which of these is a commonly used software engineering principle?",
+            "answers": ["DRY (Don't Repeat Yourself)", "KISS (Keep It Simple, Stupid)", "YAGNI (You Aren't Gonna Need It)", "All of the above"],
+            "correctAnswer": "All of the above"
+          },
+          {
+            "questionText": "What does the term 'refactoring' mean in software development?",
+            "answers": [
+              "Improving code quality without changing its behavior",
+              "Changing the system architecture",
+              "Writing new features",
+              "Deleting unused code"
+            ],
+            "correctAnswer": "Improving code quality without changing its behavior"
+          }
+        ]
+      },      
+      {
+        "name": "Cybersecurity",
+        "description": "Understand methods for protecting systems, networks, and data.",
+        "icon": "security",
+        "questions": [
+          {
+            "questionText": "What does VPN stand for?",
+            "answers": [
+              "Virtual Private Network",
+              "Very Private Network",
+              "Virtual Public Network",
+              "Value Private Network"
+            ],
+            "correctAnswer": "Virtual Private Network"
+          },
+          {
+            "questionText": "Which is a type of malware?",
+            "answers": ["Virus", "Firewall", "Router", "Proxy"],
+            "correctAnswer": "Virus"
+          },
+          {
+            "questionText": "What is the purpose of encryption?",
+            "answers": [
+              "To compress files",
+              "To protect data",
+              "To store data",
+              "To transfer files"
+            ],
+            "correctAnswer": "To protect data"
+          },
+          {
+            "questionText": "What is two-factor authentication?",
+            "answers": [
+              "A method of encrypting data",
+              "A security measure requiring two forms of identification",
+              "A type of malware",
+              "A firewall protocol"
+            ],
+            "correctAnswer": "A security measure requiring two forms of identification"
+          },
+          {
+            "questionText": "Which of these is a common type of phishing attack?",
+            "answers": [
+              "Email spoofing",
+              "Ransomware",
+              "SQL injection",
+              "Man-in-the-middle"
+            ],
+            "correctAnswer": "Email spoofing"
+          },
+          {
+            "questionText": "Which protocol is commonly used for secure communication over the internet?",
+            "answers": ["HTTP", "HTTPS", "FTP", "SMTP"],
+            "correctAnswer": "HTTPS"
+          },
+          {
+            "questionText": "What is a firewall used for?",
+            "answers": [
+              "Encrypting data",
+              "Blocking unauthorized access",
+              "Storing sensitive information",
+              "Transmitting data securely"
+            ],
+            "correctAnswer": "Blocking unauthorized access"
+          },
+          {
+            "questionText": "Which is an example of a brute force attack?",
+            "answers": [
+              "Guessing passwords by trying all possible combinations",
+              "Phishing",
+              "SQL injection",
+              "DNS poisoning"
+            ],
+            "correctAnswer": "Guessing passwords by trying all possible combinations"
+          },
+          {
+            "questionText": "What is the purpose of multi-factor authentication?",
+            "answers": [
+              "To enhance password strength",
+              "To require multiple forms of verification",
+              "To encrypt communication",
+              "To perform automatic backups"
+            ],
+            "correctAnswer": "To require multiple forms of verification"
+          },
+          {
+            "questionText": "Which type of attack involves intercepting and altering communication between two parties?",
+            "answers": [
+              "Man-in-the-middle",
+              "DDoS attack",
+              "Phishing",
+              "Ransomware"
+            ],
+            "correctAnswer": "Man-in-the-middle"
+          },
+          {
+            "questionText": "Which of these is a popular antivirus software?",
+            "answers": ["McAfee", "Chrome", "Firefox", "Safari"],
+            "correctAnswer": "McAfee"
+          },
+          {
+            "questionText": "What is the principle of least privilege?",
+            "answers": [
+              "Granting users the minimum access required to perform their tasks",
+              "Allowing unlimited access to administrators",
+              "Using complex passwords",
+              "Sharing private keys with trusted parties"
+            ],
+            "correctAnswer": "Granting users the minimum access required to perform their tasks"
+          }
+        ]
+      },      
+      {
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Dive into AI and ML concepts, algorithms, and their applications.",
+        "icon": "lightbulb_outline",
+        "questions": [
+          {
+            "questionText": "Which algorithm is used for supervised learning?",
+            "answers": ["K-Means", "Linear Regression", "Apriori", "DBSCAN"],
+            "correctAnswer": "Linear Regression"
+          },
+          {
+            "questionText": "What is deep learning?",
+            "answers": [
+              "A type of neural network",
+              "A type of machine learning",
+              "Both A and B",
+              "None of the above"
+            ],
+            "correctAnswer": "Both A and B"
+          },
+          {
+            "questionText": "Which library is used for machine learning in Python?",
+            "answers": ["NumPy", "TensorFlow", "Pandas", "Matplotlib"],
+            "correctAnswer": "TensorFlow"
+          },
+          {
+            "questionText": "Which of the following is a type of neural network architecture?",
+            "answers": [
+              "Convolutional Neural Networks (CNN)",
+              "Support Vector Machines (SVM)",
+              "K-Nearest Neighbors (KNN)",
+              "Linear Regression"
+            ],
+            "correctAnswer": "Convolutional Neural Networks (CNN)"
+          },
+          {
+            "questionText": "What is the purpose of activation functions in neural networks?",
+            "answers": [
+              "To normalize data",
+              "To introduce non-linearity",
+              "To reduce overfitting",
+              "To scale the input data"
+            ],
+            "correctAnswer": "To introduce non-linearity"
+          },
+          {
+            "questionText": "Which of the following is an example of an unsupervised learning algorithm?",
+            "answers": ["K-Means", "Logistic Regression", "Random Forest", "Naive Bayes"],
+            "correctAnswer": "K-Means"
+          },
+          {
+            "questionText": "What is overfitting in machine learning?",
+            "answers": [
+              "When the model performs well on training data but poorly on new data",
+              "When the model is too simple",
+              "When the model has high bias",
+              "When the model is too complex"
+            ],
+            "correctAnswer": "When the model performs well on training data but poorly on new data"
+          },
+          {
+            "questionText": "Which of these is a key concept in reinforcement learning?",
+            "answers": [
+              "Exploration vs Exploitation",
+              "Supervised learning",
+              "Clustering",
+              "Regression"
+            ],
+            "correctAnswer": "Exploration vs Exploitation"
+          },
+          {
+            "questionText": "Which Python library is commonly used for data manipulation and analysis in ML?",
+            "answers": ["TensorFlow", "NumPy", "Pandas", "OpenCV"],
+            "correctAnswer": "Pandas"
+          },
+          {
+            "questionText": "What does the term 'epochs' refer to in machine learning?",
+            "answers": [
+              "The number of times the model is trained on the entire dataset",
+              "The size of the dataset",
+              "The time it takes for the model to train",
+              "The number of layers in a neural network"
+            ],
+            "correctAnswer": "The number of times the model is trained on the entire dataset"
+          },
+          {
+            "questionText": "Which type of machine learning is used when the output is a continuous value?",
+            "answers": ["Classification", "Clustering", "Regression", "Association"],
+            "correctAnswer": "Regression"
+          }
+        ]
+      }      
+  ]

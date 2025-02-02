@@ -1,0 +1,32 @@
+plugins {
+  // ...
+
+  // Add the dependency for the Google services Gradle plugin
+  id 'com.google.gms.google-services' version '4.4.2' apply false
+
+}
+
+allprojects {
+    repositories {
+        google() // Google's Maven repository for Android dependencies.
+        mavenCentral() // Maven Central repository for additional libraries.
+    }
+    gradle.projectsEvaluated {
+        tasks.withType(JavaCompile) {
+            options.compilerArgs << '-Xlint:deprecation'
+        }
+    }
+}
+
+rootProject.buildDir = "../build"
+
+subprojects {
+    // Configure build directories for subprojects.
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+    evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    // Task to clean the build directory.
+    delete(rootProject.buildDir)
+}
